@@ -1,0 +1,1322 @@
+[
+    {
+      "file": "SIGIT0000001_Moderatus.xml",
+      "currentLocation": {
+        "name": "Grumento Nova (PZ), National Archaeological Museum of the Alta Val d'Agri",
+        "geo": "40.28281 15.88877"
+      },
+      "findspot": {
+        "name": "Marsicovetere - Barricella (PZ), Roman villa of the Bruttii Praesentes",
+        "geo": "40.3768327099 15.799474011"
+      }
+    },
+    {
+      "file": "SIGIT0000002_FAN.xml",
+      "currentLocation": {
+        "name": "Rimini, Museo della Città - Museo Civico",
+        "geo": "44.05755 12.56528"
+      },
+      "findspot": {
+        "name": "Unknown",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000003_GorAN.xml",
+      "currentLocation": {
+        "name": "Unknown, Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Ariminum",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000004_ZoticusCAugustiN.xml",
+      "currentLocation": {
+        "name": "Rimini, Museo della Città - Museo Civico",
+        "geo": "44.05755 12.56528"
+      },
+      "findspot": {
+        "name": "Ariminum",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000005_Caberius.xml",
+      "currentLocation": {
+        "name": "Rimini, Museo della Città - Museo Civico",
+        "geo": "44.05755 12.56528"
+      },
+      "findspot": {
+        "name": "Unknown",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000006_PAN.xml",
+      "currentLocation": {
+        "name": "Riccione43.99942, 12.65689, Museo del territorio di Riccione",
+        "geo": "43.99942, 12.65689"
+      },
+      "findspot": {
+        "name": "Unknown",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000007_LAR.xml",
+      "currentLocation": {
+        "name": "San Giovanni di Marignano (RN), Private collection",
+        "geo": "43.93989 12.71166"
+      },
+      "findspot": {
+        "name": "Unknown",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000008_CVS.xml",
+      "currentLocation": {
+        "name": "San Giovanni di Marignano (RN), Private collection",
+        "geo": "43.93989 12.71166"
+      },
+      "findspot": {
+        "name": "Unknown",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000009_MVS.xml",
+      "currentLocation": {
+        "name": "San Giovanni di Marignano (RN), Private collection",
+        "geo": "43.93989 12.71166"
+      },
+      "findspot": {
+        "name": "Unknown",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000010_Liberalis.xml",
+      "currentLocation": {
+        "name": "Unknown, Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "A(l)lifae",
+        "geo": "41.328486 14.330592"
+      }
+    },
+    {
+      "file": "SIGIT0000011_Theagenes.xml",
+      "currentLocation": {
+        "name": "Unknown, Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Ignoratur",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000012_MarcusAemiliusDiogenis.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000013_MarcusAmpiusHyla.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000014_AulusNinniusMo---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000015_Anthus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000016_Anthus.xml",
+      "currentLocation": {
+        "name": "Unknown, Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000017_PubliusAntistiusMaximus.xml",
+      "currentLocation": {
+        "name": "Unknown, Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000018_AxiusGun---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000019_TitusBabiniusAlexander.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000020_TiberiusClaudiusEp---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000021_MarcusCNa.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000022_LuciusCaeciliusCommunis.xml",
+      "currentLocation": {
+        "name": "Unknown, Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000023_QuintusCaeciliusTertius.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000024_CneusCaetroniusEutychus.xml",
+      "currentLocation": {
+        "name": "Unknown, Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000025_LuciusCalpurniusDiogenis.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000026_DecimusCaprasiusPri---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000027_CaiusCassiusBassus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000028_CaiusCatiusStichus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000029_CipiusPamphilus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000030_TiberiusClaudiusEuenus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000031_LuciusCorneliusAdiutor.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000032_CaiusCorneliusClu---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000033_LuciusCorneliusDiadumenos.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000034_Cos---Secundianus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000035_CaiusC---Sec---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000036_AulusCossiusLibanus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000037_TiberiusCrassusFirmus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000038_TitusD---Panthera.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000039_QuintusDelliusAmicus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000040_CnaeusDomitiusSuavis.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Nuceria Alfaterna",
+        "geo": "40.743128 14.673929"
+      }
+    },
+    {
+      "file": "SIGIT0000041_MarcusE---S---Te---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000042_Eutychus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000043_P---F---L---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000044_MarcusFabiusLalus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000045_PubliusFlaviusLargus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000046_HFA.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000047_AulusHerennuleiusCommunis.xml",
+      "currentLocation": {
+        "name": "Unknown, Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000048_Italicus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000049_IuliusDonatus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000050_CaiusIuliusNic---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000051_CaiusIuliusSuavis.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000052_LuciusLaeliusTro---.xml",
+      "currentLocation": {
+        "name": "Unknown, Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000053_Liberus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000054_LuciusLiviusFirmus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000055_QuintusMaeciusTheuda.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000056_Meges.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000057_MarcusMemmiusAuctus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000058_CaiusMessienusEunomus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000059_TitusMesciniusGelo.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000060_LuciusMessius.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000061_LuciusMunatiusBassus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000062_Musaeus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000063_LuciusNinniusOptatus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000064_MarcusNoniusMagnus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000065_AulusOctaviusPr---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000066_QuintusOctaviusRomulus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000067_Onomastus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000068_PubliusOpetreusPullus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000069_CaiusOviusSecundus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000070_MarcusPaccius.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000071_PubliusPacciusClarus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000072_Phoebus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000073_Phosphorus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000074_PompeusAxiochus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000075_TitusPontidiusSuccessus.xml",
+      "currentLocation": {
+        "name": "Bologna, Museo Civico Archeologico",
+        "geo": "44.49381 11.33875"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000076_NumeriusPopidiusPriscus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000077_Potitus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000078_CaiusProculeiusPylades.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000079_MarcusPublicusNymphicus.xml",
+      "currentLocation": {
+        "name": ", Unknown",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000080_LuciusR---P---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000081_LuciusRapinasiusOptatus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000082_MarcusS---C---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000083_CaiusS---Fruc---.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000084_QuintusSallustiusInventus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000085_CaiusSallustiusSabinus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000086_CaiusSiculus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000087_(PubliusVedius)Siricus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000088_MarcusSpuriusAm---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000089_MarcusSpuriusSaturninus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000090_MarcusStatiliusPhilero.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000091_MarcusStronniusFavorinus.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000092_C---T---F---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000093_LuciusValeriusF---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000094_MarcusValeriusLargus-MarcusIuniusNanc---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000095_PubliusVareniusZethus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000096_CaiusVibiusC---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000097_CaiusVibiusNymphicus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Herculaneum",
+        "geo": "40.805843 14.348058"
+      }
+    },
+    {
+      "file": "SIGIT0000098_PubliusVisellius.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000099_DecimusVolciusModestus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000100_LuciusVolusiusFaustus.xml",
+      "currentLocation": {
+        "name": "Naples,",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Pompeii",
+        "geo": "40.74941 14.485429"
+      }
+    },
+    {
+      "file": "SIGIT0000101_DianaTifatina.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "Fanum Dianae Tifatinae",
+        "geo": "41.110608 14.253623"
+      }
+    },
+    {
+      "file": "SIGIT0000102_Caracalla.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Bosa, ager40.299242, 8.498154",
+        "geo": "40.299242, 8.498154"
+      }
+    },
+    {
+      "file": "SIGIT0000103_IIIsocii.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Sicily",
+        "geo": "37.6145914875 14.0434790344"
+      }
+    },
+    {
+      "file": "SIGIT0000104_QuintusA(---)P(---)S(---).xml",
+      "currentLocation": {
+        "name": "Cagliari, Museo Archeologico Nazionale",
+        "geo": "39.23054 9.11917"
+      },
+      "findspot": {
+        "name": "Sulcis (ager)",
+        "geo": "39.1662526092 8.48029248059"
+      }
+    },
+    {
+      "file": "SIGIT0000105_CaiusA(---)Romanus.xml",
+      "currentLocation": {
+        "name": "Naples,",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000106_Acholius.xml",
+      "currentLocation": {
+        "name": "Caserta41.07262, 14.33231,",
+        "geo": "41.07262, 14.33231"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000107_PaciliusItalicus.xml",
+      "currentLocation": {
+        "name": "Avellino, Museo Provinciale Irpino",
+        "geo": "40.91494 14.79103"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000108_PubliusAcutusAster.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000109_Adelfius.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000110_LuciusAeliusGaa.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000111_AeliusSeptimius.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000112_AeliusTorquatus.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000113_A---E---M---.xml",
+      "currentLocation": {
+        "name": "",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000114_EmiliusEstivus.xml",
+      "currentLocation": {
+        "name": "",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Catina",
+        "geo": "37.502959 15.088142"
+      }
+    },
+    {
+      "file": "SIGIT0000115_CneusAemiliusEpaphroditus.xml",
+      "currentLocation": {
+        "name": "",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Eburum",
+        "geo": "40.6175505 15.058618"
+      }
+    },
+    {
+      "file": "SIGIT0000116_LuciusAemiliusHesycus.xml",
+      "currentLocation": {
+        "name": "Museo Archeologico Nazionale di Parma",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "Neapolis",
+        "geo": "40.839995 14.25287"
+      }
+    },
+    {
+      "file": "SIGIT0000117_AemiliaRufilla.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000118_LuciusAep---Felicionis.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000119_LuciusAes---F---.xml",
+      "currentLocation": {
+        "name": ",",
+        "geo": ""
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    },
+    {
+      "file": "SIGIT0000120_NumeriusAfiniusL---.xml",
+      "currentLocation": {
+        "name": "Naples, Museo Archeologico Nazionale",
+        "geo": "40.85216 14.26811"
+      },
+      "findspot": {
+        "name": "",
+        "geo": ""
+      }
+    }
+  ]
