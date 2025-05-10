@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>decoNote Bezel Analyse – Pie Chart mit Tooltip</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+    }
+    svg {
+      width: 700px;
+      height: 500px;
+      margin: auto;
+    }
+    .label {
+      font-size: 14px;
+      fill: black;
+    }
+    .tooltip {
+      position: absolute;
+      background-color: rgba(0, 0, 0, 0.8);
+      color: #fff;
+      padding: 6px 10px;
+      border-radius: 4px;
+      font-size: 14px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+  </style>
+</head>
+<body>
+  <h2>Verteilung der &lt;decoNote ana="bezel"&gt; Typen</h2>
+  <svg></svg>
+  <div class="tooltip" id="tooltip"></div>
+
+  <script>
+    const data = [
+      { category: "noBezel", value: 14 },
+      { category: "bezelEmpty", value: 44 },
+      { category: "bezelExecution", value: 59 },
+      { category: "bezelOther", value: 3 }
+    ];
+
+    const total = d3.sum(data, d => d.value);
+
+    const width = 700;
+    const height = 500;
+    const radius = Math.min(width, height) / 2 - 50;
+
+    const svg = d3.select("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .append("g")
+      .attr("transform", `translate(${width / 2},${height / 2})`);
+
+    const color = d3.scaleOrdinal()
+      .domain(data.map(d => d.category))
+      .range(["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"]);
+
+    const pie = d3.pie().value(d => d.value);
+    const arc = d3.arc().innerRadius(0).outerRadius(radius);
+
+    const tooltip = d3.select("#tooltip");
+
+    const arcs = svg.selectAll("arc")
+      .data(pie(data))
+      .enter()
+      .append("g")
+      .on("mousemove", (event, d) => {
+        const percent = ((d.data.value / total) * 100).toFixed(1);
+        tooltip.style("left", (event.pageX + 10) + "px")
+               .style("top", (event.pageY - 20) + "px")
+               .style("opacity", 1)
+               .html(`<strong>${d.data.category}</strong><br>${d.data.value} Einträge<br>${percent}%`);
+      })
+      .on("mouseout", () => {
+        tooltip.style("opacity", 0);
+      });
+
+    arcs.append("path")
+      .attr("d", arc)
+      .attr("fill", d => color(d.data.category));
+
+    arcs.append("text")
+      .attr("transform", d => `translate(${arc.centroid(d)})`)
+      .attr("class", "label")
+      .style("text-anchor", "middle")
+      .text(d => d.data.category);
+  </script>
+</body>
+</html>
