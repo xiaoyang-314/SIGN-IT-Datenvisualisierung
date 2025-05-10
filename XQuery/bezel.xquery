@@ -1,4 +1,4 @@
-xquery version "1.0";
+xquery version "3.1";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
 let $docs := collection('file:/Users/yangxiao/Desktop/SIGN-IT-Data/?select=SIGIT*.xml;recurse=yes')
