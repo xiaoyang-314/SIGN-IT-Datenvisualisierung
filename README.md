@@ -46,11 +46,6 @@ Jede Visualisierung enthält:
 - Achsen/Legenden
 - Interaktive Darstellung (wo möglich)
 
-## 📌 Hinweise
-
-- JSON-Daten müssen lokal gehostet werden (z. B. via XAMPP oder Live Server Plugin)
-- Das Projekt ist vollständig clientseitig und benötigt keinen Server
-
 ## 👩‍🎓 Autorin
 
 - **Name:** Xiao Yang  
