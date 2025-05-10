@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overview>
+    <total>120</total>
+    <noBezel>14</noBezel>
+    <bezelEmpty>44</bezelEmpty>
+    <bezelExecutionOnly>61</bezelExecutionOnly>
+    <bezelOtherFilled>1</bezelOtherFilled>
+</overview>
