@@ -55,7 +55,6 @@ Jede Visualisierung enthält:
 
 - **Name:** Xiao Yang  
 - **Projekt:** XML-basierte Datenvisualisierung im Rahmen des SIGN-IT-Projekts  
-- **Betreuung:** [Dozent/in Name]  
 - **Stand:** Mai 2025
 
 ---
