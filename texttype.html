@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Texttypen Verteilung</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+    }
+    .bar {
+      fill: steelblue;
+    }
+    .label {
+      font-size: 12px;
+      fill: black;
+      text-anchor: middle;
+    }
+  </style>
+</head>
+<body>
+  <h2>Häufigkeit von <code>&lt;term key="#textType_X"&gt;</code> Elementen</h2>
+  <svg width="800" height="400"></svg>
+
+  <script>
+    const data = [
+      { key: "#textType_1", count: 53 },
+      { key: "#textType_2", count: 24 },
+      { key: "#textType_3", count: 17 },
+      { key: "#textType_4", count: 8 },
+      { key: "#textType_5", count: 3 }
+    ];
+
+    const svg = d3.select("svg");
+    const margin = { top: 20, right: 20, bottom: 60, left: 60 };
+    const width = +svg.attr("width") - margin.left - margin.right;
+    const height = +svg.attr("height") - margin.top - margin.bottom;
+
+    const g = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+
+    const x = d3.scaleBand()
+      .domain(data.map(d => d.key))
+      .range([0, width])
+      .padding(0.2);
+
+    const y = d3.scaleLinear()
+      .domain([0, d3.max(data, d => d.count)]).nice()
+      .range([height, 0]);
+
+    g.selectAll(".bar")
+      .data(data)
+      .join("rect")
+      .attr("class", "bar")
+      .attr("x", d => x(d.key))
+      .attr("y", d => y(d.count))
+      .attr("width", x.bandwidth())
+      .attr("height", d => height - y(d.count));
+
+    // x-Achse
+    g.append("g")
+      .attr("transform", `translate(0,${height})`)
+      .call(d3.axisBottom(x))
+      .selectAll("text")
+      .attr("transform", "rotate(-30)")
+      .style("text-anchor", "end");
+
+    // y-Achse
+    g.append("g").call(d3.axisLeft(y));
+
+    // Zahlen auf den Balken
+    g.selectAll(".label")
+      .data(data)
+      .join("text")
+      .attr("class", "label")
+      .attr("x", d => x(d.key) + x.bandwidth() / 2)
+      .attr("y", d => y(d.count) - 5)
+      .text(d => d.count);
+  </script>
+</body>
+</html>
