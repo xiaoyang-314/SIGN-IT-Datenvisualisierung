@@ -1,0 +1,277 @@
+{
+  "result": {
+    "summary": {
+      "total": 120,
+      "leer": 55,
+      "gefüllt": 65,
+      "min": 3.4,
+      "max": 10.4,
+      "avg": 5.9523076923076923077,
+      "mode": 6.2
+    },
+    "rows": {
+      "row": [
+        {
+          "file": "SIGIT0000009_MVS.xml",
+          "width": 3.4
+        },
+        {
+          "file": "SIGIT0000002_FAN.xml",
+          "width": 3.4
+        },
+        {
+          "file": "SIGIT0000063_LuciusNinniusOptatus.xml",
+          "width": 3.4
+        },
+        {
+          "file": "SIGIT0000008_CVS.xml",
+          "width": 3.8
+        },
+        {
+          "file": "SIGIT0000092_C---T---F---.xml",
+          "width": 4.2
+        },
+        {
+          "file": "SIGIT0000013_MarcusAmpiusHyla.xml",
+          "width": 4.3
+        },
+        {
+          "file": "SIGIT0000040_CnaeusDomitiusSuavis.xml",
+          "width": 4.3
+        },
+        {
+          "file": "SIGIT0000005_Caberius.xml",
+          "width": 4.4
+        },
+        {
+          "file": "SIGIT0000050_CaiusIuliusNic---.xml",
+          "width": 4.5
+        },
+        {
+          "file": "SIGIT0000070_MarcusPaccius.xml",
+          "width": 4.5
+        },
+        {
+          "file": "SIGIT0000044_MarcusFabiusLalus.xml",
+          "width": 4.6
+        },
+        {
+          "file": "SIGIT0000054_LuciusLiviusFirmus.xml",
+          "width": 4.6
+        },
+        {
+          "file": "SIGIT0000049_IuliusDonatus.xml",
+          "width": 4.6
+        },
+        {
+          "file": "SIGIT0000074_PompeusAxiochus.xml",
+          "width": 4.6
+        },
+        {
+          "file": "SIGIT0000020_TiberiusClaudiusEp---.xml",
+          "width": 4.6
+        },
+        {
+          "file": "SIGIT0000116_LuciusAemiliusHesycus.xml",
+          "width": 4.8
+        },
+        {
+          "file": "SIGIT0000045_PubliusFlaviusLargus.xml",
+          "width": 4.9
+        },
+        {
+          "file": "SIGIT0000051_CaiusIuliusSuavis.xml",
+          "width": 4.9
+        },
+        {
+          "file": "SIGIT0000075_TitusPontidiusSuccessus.xml",
+          "width": 4.9
+        },
+        {
+          "file": "SIGIT0000017_PubliusAntistiusMaximus.xml",
+          "width": 5
+        },
+        {
+          "file": "SIGIT0000048_Italicus.xml",
+          "width": 5.1
+        },
+        {
+          "file": "SIGIT0000004_ZoticusCAugustiN.xml",
+          "width": 5.1
+        },
+        {
+          "file": "SIGIT0000007_LAR.xml",
+          "width": 5.2
+        },
+        {
+          "file": "SIGIT0000071_PubliusPacciusClarus.xml",
+          "width": 5.2
+        },
+        {
+          "file": "SIGIT0000026_DecimusCaprasiusPri---.xml",
+          "width": 5.3
+        },
+        {
+          "file": "SIGIT0000006_PAN.xml",
+          "width": 5.3
+        },
+        {
+          "file": "SIGIT0000078_CaiusProculeiusPylades.xml",
+          "width": 5.4
+        },
+        {
+          "file": "SIGIT0000107_PaciliusItalicus.xml",
+          "width": 5.4
+        },
+        {
+          "file": "SIGIT0000055_QuintusMaeciusTheuda.xml",
+          "width": 5.5
+        },
+        {
+          "file": "SIGIT0000039_QuintusDelliusAmicus.xml",
+          "width": 5.5
+        },
+        {
+          "file": "SIGIT0000037_TiberiusCrassusFirmus.xml",
+          "width": 5.6
+        },
+        {
+          "file": "SIGIT0000056_Meges.xml",
+          "width": 5.7
+        },
+        {
+          "file": "SIGIT0000030_TiberiusClaudiusEuenus.xml",
+          "width": 5.8
+        },
+        {
+          "file": "SIGIT0000053_Liberus.xml",
+          "width": 6
+        },
+        {
+          "file": "SIGIT0000073_Phosphorus.xml",
+          "width": 6
+        },
+        {
+          "file": "SIGIT0000032_CaiusCorneliusClu---.xml",
+          "width": 6.1
+        },
+        {
+          "file": "SIGIT0000068_PubliusOpetreusPullus.xml",
+          "width": 6.2
+        },
+        {
+          "file": "SIGIT0000069_CaiusOviusSecundus.xml",
+          "width": 6.2
+        },
+        {
+          "file": "SIGIT0000057_MarcusMemmiusAuctus.xml",
+          "width": 6.2
+        },
+        {
+          "file": "SIGIT0000095_PubliusVareniusZethus.xml",
+          "width": 6.2
+        },
+        {
+          "file": "SIGIT0000096_CaiusVibiusC---.xml",
+          "width": 6.2
+        },
+        {
+          "file": "SIGIT0000076_NumeriusPopidiusPriscus.xml",
+          "width": 6.2
+        },
+        {
+          "file": "SIGIT0000065_AulusOctaviusPr---.xml",
+          "width": 6.5
+        },
+        {
+          "file": "SIGIT0000019_TitusBabiniusAlexander.xml",
+          "width": 6.5
+        },
+        {
+          "file": "SIGIT0000064_MarcusNoniusMagnus.xml",
+          "width": 6.7
+        },
+        {
+          "file": "SIGIT0000085_CaiusSallustiusSabinus.xml",
+          "width": 6.8
+        },
+        {
+          "file": "SIGIT0000067_Onomastus.xml",
+          "width": 6.8
+        },
+        {
+          "file": "SIGIT0000023_QuintusCaeciliusTertius.xml",
+          "width": 6.8
+        },
+        {
+          "file": "SIGIT0000031_LuciusCorneliusAdiutor.xml",
+          "width": 7
+        },
+        {
+          "file": "SIGIT0000025_LuciusCalpurniusDiogenis.xml",
+          "width": 7.1
+        },
+        {
+          "file": "SIGIT0000066_QuintusOctaviusRomulus.xml",
+          "width": 7.1
+        },
+        {
+          "file": "SIGIT0000062_Musaeus.xml",
+          "width": 7.1
+        },
+        {
+          "file": "SIGIT0000081_LuciusRapinasiusOptatus.xml",
+          "width": 7.1
+        },
+        {
+          "file": "SIGIT0000086_CaiusSiculus.xml",
+          "width": 7.1
+        },
+        {
+          "file": "SIGIT0000099_DecimusVolciusModestus.xml",
+          "width": 7.2
+        },
+        {
+          "file": "SIGIT0000058_CaiusMessienusEunomus.xml",
+          "width": 7.3
+        },
+        {
+          "file": "SIGIT0000084_QuintusSallustiusInventus.xml",
+          "width": 7.3
+        },
+        {
+          "file": "SIGIT0000015_Anthus.xml",
+          "width": 7.8
+        },
+        {
+          "file": "SIGIT0000038_TitusD---Panthera.xml",
+          "width": 8
+        },
+        {
+          "file": "SIGIT0000028_CaiusCatiusStichus.xml",
+          "width": 8.1
+        },
+        {
+          "file": "SIGIT0000027_CaiusCassiusBassus.xml",
+          "width": 8.4
+        },
+        {
+          "file": "SIGIT0000018_AxiusGun---.xml",
+          "width": 8.5
+        },
+        {
+          "file": "SIGIT0000060_LuciusMessius.xml",
+          "width": 8.5
+        },
+        {
+          "file": "SIGIT0000029_CipiusPamphilus.xml",
+          "width": 9.7
+        },
+        {
+          "file": "SIGIT0000012_MarcusAemiliusDiogenis.xml",
+          "width": 10.4
+        }
+      ]
+    }
+  }
+}
