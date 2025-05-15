@@ -29,6 +29,14 @@ Jede Visualisierung enthält:
 - Achsen/Legenden
 - Interaktive Darstellung (wo möglich)
 
+![Breiten sortiert](https://github.com/user-attachments/assets/2c514c38-c066-434f-a270-68acd10d4182)
+
+![bezel Verteilung](https://github.com/user-attachments/assets/aef3fdd9-c62a-42aa-963d-f1f767fe53e5)
+
+![texttype](https://github.com/user-attachments/assets/7d1fe222-92ec-41b3-9927-f02f30ea3ae3)
+
+![digitale Karte](https://github.com/user-attachments/assets/b90955d1-3d3c-4e42-9d62-7069016ad0c9)
+
 ## 👩‍🎓 Autorin
 
 - **Name:** Xiao Yang  
