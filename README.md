@@ -33,7 +33,7 @@ Jede Visualisierung enthält:
 
 ![bezel Verteilung](https://github.com/user-attachments/assets/aef3fdd9-c62a-42aa-963d-f1f767fe53e5)
 
-![texttype](https://github.com/user-attachments/assets/7d1fe222-92ec-41b3-9927-f02f30ea3ae3)
+![texttype](https://github.com/user-attachments/assets/ccd55f52-b21a-44d1-a112-660aec65f986)
 
 ![digitale Karte](https://github.com/user-attachments/assets/b90955d1-3d3c-4e42-9d62-7069016ad0c9)
 
