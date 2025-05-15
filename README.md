@@ -20,7 +20,7 @@ Dieses Projekt präsentiert verschiedene Auswertungen und interaktive Visualisie
 
 ## 🧪 Datenquellen
 
-Alle XML-Dateien stammen aus dem Projektverzeichnis `SIGN-IT-Data/` 
+Alle XML-Dateien stammen aus dem Projektverzeichnis `SIGN-IT-Data` 
 
 ## 📈 Ergebnisse
 
