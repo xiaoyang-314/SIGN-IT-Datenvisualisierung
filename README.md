@@ -7,7 +7,7 @@ Dieses Projekt enthält verschiedene Auswertungen und interaktive Visualisierung
 - **XQuery / XPath** – zum Extrahieren und Auswerten von XML-Daten
 - **D3.js** – zur Darstellung der Daten als interaktive Diagramme
 - **Leaflet.js** – zur Kartendarstellung von Fundorten
-- **HTML/CSS/JS** – als Frontend-Basis
+- **HTML/JS** – als Frontend-Basis
 
 ## 📁 Projektstruktur
 
