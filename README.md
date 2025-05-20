@@ -1,6 +1,6 @@
 # SIGN-IT Datenvisualisierung
 
-Dieses Projekt präsentiert verschiedene Auswertungen und interaktive Visualisierungen auf Grundlage von TEI-XML-Daten der SIGN-IT-Initiative. Die Umsetzung erfolgte mit X-Technologien (XQuery, XPath) sowie modernen Webstandards wie D3.js, HTML und JavaScript.
+Dieses Projekt präsentiert verschiedene Auswertungen und interaktive Visualisierungen auf Grundlage von TEI-XML-Daten der SIGN-IT-Initiative. Die Umsetzung erfolgte mit X-Technologien (XQuery, XPath) sowie modernen Webstandards wie D3.js, Leaflet, HTML und JavaScript.
 
 ## 🔧 Technologien
 
